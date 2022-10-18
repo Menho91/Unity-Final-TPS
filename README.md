@@ -1,6 +1,6 @@
 # Unity-Final-TPS
 
-<img src="https://github.com/Menho91/Unity-Final-TPS/blob/b655b65bd01207db7f2df797b71fc5349dc4da81/ReadmeImage.png" width="250" height="130">
+<img src="https://github.com/Menho91/Unity-Final-TPS/blob/b655b65bd01207db7f2df797b71fc5349dc4da81/ReadmeImage.png" width="30%" height="30%">
 
 1. 설명
   - 게임 프로그래밍 수업 최종 과제로 만들었습니다.
