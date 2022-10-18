@@ -1,5 +1,7 @@
 # Unity-Final-TPS
 
+![image]ReadmeImage.png{: .align-center}
+
 1. 설명
   - 게임 프로그래밍 수업 최종 과제로 만들었습니다.
   - 3인칭 슈팅 게임으로, 총 5명의 적을 쏴서 없애면 끝나는 게임입니다.
